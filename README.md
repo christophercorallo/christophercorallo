@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **christophercorallo/christophercorallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=christophercorallo)
+
+# Hello there 👋
+
+My name is Chris, I'm from Toronto 🇨🇦, and I am a recent University of Waterloo engineering graduate 👨‍🎓! I am interested in all things data and would like to be a data engineer!
+- 🔭 I’m currently working on my Play-by-Play Data Analysis project using Spark, AWS, and Python. Feel free to check out the repo!
+- 📖 I'm currently reading the Fundamentals of Data Engineering by Joe Reis & Matt Housley.
+- ⚡ When I'm not working you can find me either playing hockey 🏒, playing soccer ⚽, reading books 📚, or going to the gym 🏋️!
+- 📫 Feel free to reach out to me at <a href="chris.corallo1@gmail.com">chris.corallo1@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/christopher-corallo-99a6801a4/">LinkedIn</a>!
