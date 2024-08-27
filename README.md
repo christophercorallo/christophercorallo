@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello there 👋
 
-My name is Chris, I'm from Toronto 🇨🇦, I am a recent University of Waterloo engineering graduate 👨‍🎓, and I would like to be a data engineer! Feel free to check out some of my projects below!
+My name is Chris and I'm from Toronto, ON 🇨🇦. I am a recent University of Waterloo engineering graduate 👨‍🎓, and I would like to be a data engineer! Feel free to check out some of my projects below!
 - 🔭 I’m currently working on my Play-by-Play Data Analysis project using Spark, AWS, Docker, and Python.
 - 📖 I'm currently reading the Fundamentals of Data Engineering by Joe Reis & Matt Housley.
 - ⚡ When I'm not working you can find me either playing hockey 🏒, playing soccer ⚽, reading books 📚, or working out🏋️!
