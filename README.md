@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello there 👋
 
 My name is Chris and I'm from Toronto, Ontario 🇨🇦. I am a recent graduate from the University of Waterloo 👨‍🎓, and I would like to be a data engineer 📊! Feel free to check out some of my projects below!
-- 🔭 I’m currently working on my Play-by-Play Data Analysis project using Spark, AWS, Docker, and Python.
-- 📖 I'm currently reading the Designing Data-Intensive Applications by Martin Kleppmann.
+- 🔭 I’m currently working on my Click Attribution Streaming Pipeline using Kafka, Flink, Python, and SQL.
+- 📖 I'm currently reading Designing Data-Intensive Applications by Martin Kleppmann.
 - ⚡ When I'm not working you can find me either playing hockey 🏒, playing soccer ⚽, reading books 📚, or working out🏋️!
 - 📫 Feel free to reach out to me at <a href="chris.corallo1@gmail.com">chris.corallo1@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/christopher-corallo-99a6801a4/">LinkedIn</a>!
