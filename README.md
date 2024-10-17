@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=christophercorallo)
 
+![](https://komarev.com/ghpvc/?username=christophercorallo)
+-->
 # Hello there 👋
 
 My name is Chris and I'm from Toronto, Ontario 🇨🇦. I am a recent graduate from the University of Waterloo 👨‍🎓, and I would like to be a data engineer 📊! Feel free to check out some of my projects below!
